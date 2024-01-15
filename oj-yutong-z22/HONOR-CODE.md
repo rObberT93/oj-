@@ -1,0 +1,17 @@
+# Honor Code
+- [react bootstrap 中文文档](https://www.react-bootstrap.cn/components/alerts/)
+- [HTTP响应状态码](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status)
+- [crossbeam 系列 加强版channel](https://rustcc.cn/article?id=fdcca4e9-7552-43a8-86c2-589011129b82)
+- [Javascript 异步编程](https://www.runoob.com/js/js-async.html)
+- [how to reuse code from the main bin and in another bin](https://stackoverflow.com/questions/57450632/how-to-reuse-code-from-the-main-bin-in-another-bin)
+- [rabbitmq 的使用方法](https://blog.csdn.net/u010312671/article/details/106634909)
+- [一字班软工文档](https://thuse-course.github.io/course-index/basic/)
+- [React 列表渲染](https://juejin.cn/post/6844903633822171149)
+- [Bilibili react教程](https://www.bilibili.com/video/BV1Z44y1K7Fj/?spm_id_from=333.337.search-card.all.click&vd_source=efb957dde949f27031e7faa7593c2559)
+- [如何在React中使用Bootstrap](https://www.cnblogs.com/amboke/p/16685549.html)
+- [SAST暑培文档](https://docs.net9.org/frontend/react/)
+- [添加cros头部](https://blog.csdn.net/unlilalila/article/details/121107428)
+- [actix-web中文文档](https://mirrors.gitcode.host/zzy/actix-web-zh-cn/)
+- [getusage](https://docs.rs/linux/latest/linux/syscall/fn.getrusage.html#:~:text=linux%3A%3Asyscall%3A%3Agetrusage%20-%20Rust%20%5B%20%E2%88%92%5D%20%5Bsrc%5D%20Function%20linux,usage%5D%20Place%20where%20the%20usage%20will%20be%20stored.)
+- [如何构建多个二进制文件](https://www.codenong.com/36604010/)
+
